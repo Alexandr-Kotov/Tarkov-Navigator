@@ -1,0 +1,110 @@
+[
+  {
+    "slug": "woods",
+    "name": "Лес",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=1200&auto=format&fit=crop",
+    "description": "Большая лесная локация с множеством засад и скрытых тайников.",
+    "center": [
+      56.818,
+      60.605
+    ],
+    "zoom": 13,
+    "tags": [
+      "лес",
+      "woods",
+      "тайники"
+    ],
+    "points": [
+      {
+        "title": "Выход: Мёртвый овраг",
+        "type": "exit",
+        "coords": [
+          56.82,
+          60.6
+        ]
+      },
+      {
+        "title": "Тайник под корнем",
+        "type": "stash",
+        "coords": [
+          56.815,
+          60.61
+        ]
+      },
+      {
+        "title": "Квестовая папка",
+        "type": "quest",
+        "coords": [
+          56.819,
+          60.607
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "customs",
+    "name": "Таможня",
+    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1200&auto=format&fit=crop",
+    "description": "Классическая PvP зона с общежитиями, складами и квестовыми точками.",
+    "center": [
+      59.932,
+      30.306
+    ],
+    "zoom": 13,
+    "tags": [
+      "таможня",
+      "customs"
+    ],
+    "points": [
+      {
+        "title": "Выход: Трейлерный парк",
+        "type": "exit",
+        "coords": [
+          59.934,
+          30.31
+        ]
+      },
+      {
+        "title": "Общежития (2-этажка)",
+        "type": "poi",
+        "coords": [
+          59.931,
+          30.305
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "shoreline",
+    "name": "Берег",
+    "image": "https://images.unsplash.com/photo-1505764706515-aa95265c5abc?q=80&w=1200&auto=format&fit=crop",
+    "description": "Большая территория с санаторием, ценным лутом и длинными перестрелками.",
+    "center": [
+      44.616,
+      33.525
+    ],
+    "zoom": 12,
+    "tags": [
+      "берег",
+      "shoreline"
+    ],
+    "points": [
+      {
+        "title": "Санаторий (крыло Запад)",
+        "type": "poi",
+        "coords": [
+          44.615,
+          33.52
+        ]
+      },
+      {
+        "title": "Выход: Скалы у тоннеля",
+        "type": "exit",
+        "coords": [
+          44.62,
+          33.53
+        ]
+      }
+    ]
+  }
+]
